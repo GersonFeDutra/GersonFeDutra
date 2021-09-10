@@ -2,10 +2,6 @@
 
 Abaixo estão listado uma série de ícones usados no projeto incluídos via URL.
 
-## Godot
-
-Godot Engine Logo Copyright (c) 2017 Andrea Calabró obtida e hospedada pelo [site oficial](https://godotengine.org/press) sobre a licença [CC-BY-4.0](https://github.com/godotengine/godot/blob/master/LOGO_LICENSE.md).
-
 ## Tux
 
 Linux Mascot obtido e hospedado no repositório [garrett/Tux](https://github.com/garrett/Tux) sobre [domínio público](https://creativecommons.org/publicdomain/zero/1.0/).
