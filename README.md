@@ -15,17 +15,7 @@
 ---
 ### Tools
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" width=24pt>
-<!-- &emsp; --> <!-- <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/html5.svg" width=24pt> -->
-<!-- &emsp; --> <!-- <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/css3.svg" width=24pt> -->
-<!-- &emsp; --> <!-- <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/javascript.svg" width=24pt> -->
-&emsp; <img src="assets/icons/Git/git.svg" width=24pt>
-&emsp; <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/github.svg" width=24pt/>
-&emsp; <img src="https://raw.githubusercontent.com/garrett/Tux/main/tux.svg" width=24pt/>
-&emsp; <img src="https://raw.githubusercontent.com/odb/official-bash-logo/master/assets/Logos/Icons/SVG/16x16.svg" width=24pt/>
-&emsp; <!-- <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/vim.svg" width=24pt/> -->
-<!-- &emsp; --><img src="https://www.vim.org/images/vim_small.gif" width=24pt/>
-&emsp; <img src="assets/icons/NeoVim/neovim-icon.svg" width=20pt>
+<img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" width=24pt> <!-- &emsp; --> <!-- <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/html5.svg" width=24pt> --> <!-- &emsp; --> <!-- <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/css3.svg" width=24pt> --> <!-- &emsp; --> <!-- <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/javascript.svg" width=24pt> --> &emsp; <img src="assets/icons/Git/git.svg" width=24pt> &emsp; <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/github.svg" width=24pt/> &emsp; <img src="https://raw.githubusercontent.com/garrett/Tux/main/tux.svg" width=24pt/> &emsp; <img src="https://raw.githubusercontent.com/odb/official-bash-logo/master/assets/Logos/Icons/SVG/16x16.svg" width=24pt/> &emsp; <!-- <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/vim.svg" width=24pt/> --> <!-- &emsp; --><img src="https://www.vim.org/images/vim_small.gif" width=24pt/> &emsp; <img src="assets/icons/NeoVim/neovim-icon.svg" width=20pt>
 
 ---
 
