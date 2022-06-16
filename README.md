@@ -1,7 +1,7 @@
 # Hello World!
 
 [<img src="assets/icons/FontAwesome/twitter.png" width="46pt" />](https://twitter.com/GersonFeDutra)
-[<img src="assets/icons/FontAwesome/instagram.png" width="46pt" />](https://www.instagram.com/gerson_linky/)
+[<img src="assets/icons/FontAwesome/instagram.png" width="46pt" />](https://www.instagram.com/gersonfedutra/)
 [<img src="assets/icons/FontAwesome/itch-io.png" width="46pt" />](https://liinky.itch.io/) 
 <!-- [<img src="assets/icons/FontAwesome/gamepad.png" width="46pt" />](https://github.com/Misignu) -->
 
