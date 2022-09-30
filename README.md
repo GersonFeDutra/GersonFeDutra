@@ -9,8 +9,8 @@
 ---
 
 - Favorite languages: <img src="assets/icons/FontAwesome/python.svg" width=18pt /> [_Python_](https://www.python.org/) & _**C**_
-- Currently learning: Algorithms & Data Structures
-- Interest: _**C++**_
+- Currently learning: Algorithms & Data Structures, Systems Design and Analysis
+- Interests: _**C++**_, Game Development
 - I 💙 [<img src="assets/icons/Godot/godot.svg" width=18pt> *Godot*](https://godotengine.org/)
 
 ---
