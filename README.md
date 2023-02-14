@@ -45,8 +45,7 @@ _𝒢𝒶𝓂𝑒𝒟𝑒𝓋 𝒾𝓈 𝓂𝓎 𝓅𝒶𝓈𝓈𝒾𝑜𝓃_
 
 <!-- <img alt="GersonFeDutra Github Stats" src="https://github-readme-stats.vercel.app/api?username=GersonFeDutra&show_icons=true&hide_border=true&theme=synthwave&hide=stars,prs,issues,contribs"> <img alt="GersonFeDutra GitHub streaks" src="https://github-readme-streak-stats.herokuapp.com/?user=GersonFeDutra&theme=synthwave&hide_border=true&show_icons=true"> -->
 
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GersonFeDutra&layout=compact&theme=synthwave&hide_border=true" align="right" alt="Top Languages" >
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GersonFeDutra&layout=compact&theme=transparent&hide_border=true&title_color=9966aa&text_color=9966aa&langs_count=6&hide=html" align="right" alt="Top Languages" >
 
 ```C
 #include <stdio.h>
