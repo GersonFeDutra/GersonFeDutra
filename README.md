@@ -21,8 +21,14 @@ _𝒢𝒶𝓂𝑒𝒟𝑒𝓋 𝒾𝓈 𝓂𝓎 𝓅𝒶𝓈𝓈𝒾𝑜𝓃_
     - Algorithms & Data Structures
     - Software Engineering
     - Calculus & Statistics
-- Interests: _**C++**_, Game Development
+- Interests:
+    - **C++**
+    - Game Development
+    - Computer Graphics
+    - Game/ Graphics/ Software Design
+    - Procedural Generation & AI
 - I 💙 [<img src="assets/icons/Godot/godot.png" width=20pt> **Godot**](https://godotengine.org/)
+    - Enthusiast since 2016~
 
 </div>
 
@@ -39,4 +45,15 @@ _𝒢𝒶𝓂𝑒𝒟𝑒𝓋 𝒾𝓈 𝓂𝓎 𝓅𝒶𝓈𝓈𝒾𝑜𝓃_
 
 <!-- <img alt="GersonFeDutra Github Stats" src="https://github-readme-stats.vercel.app/api?username=GersonFeDutra&show_icons=true&hide_border=true&theme=synthwave&hide=stars,prs,issues,contribs"> <img alt="GersonFeDutra GitHub streaks" src="https://github-readme-streak-stats.herokuapp.com/?user=GersonFeDutra&theme=synthwave&hide_border=true&show_icons=true"> -->
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GersonFeDutra&layout=compact&theme=synthwave&hide_border=true)
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GersonFeDutra&layout=compact&theme=synthwave&hide_border=true" align="right" alt="Top Languages" >
+
+```C
+#include <stdio.h>
+#include <stdlib.h>
+int main(void)
+{
+    printf("\033[32m" "Hello World!" "\033[m\n");
+    return EXIT_SUCCESS;
+}
+```
