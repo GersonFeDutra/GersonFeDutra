@@ -17,14 +17,16 @@ _𝒢𝒶𝓂𝑒𝒟𝑒𝓋 𝒾𝓈 𝓂𝓎 𝓅𝒶𝓈𝓈𝒾𝑜𝓃_
 <img src="assets/lvl1_link.gif" align="right" >
 
 - Favorite languages: [<img src="assets/icons/FontAwesome/languages/python.png" width=20pt /> **Python**](https://www.python.org/) & **C**
+- Favorite topics: Software Engineering
+- Starting into scientific research
+    - Loading...
 - Currently learning:
-    - Algorithms & Data Structures
-    - Software Engineering
-    - Calculus & Statistics
+    - Algorithms Design
+    - Linear Algebra
+    - **C++** & Game Development
+    <!-- - Calculus & Statistics -->
 - Interests:
-    - **C++**
-    - Game Development
-    - Computer Graphics
+    - Computer Graphics & Shaders
     - Game/ Graphics/ Software Design
     - Procedural Generation & AI
 - I 💙 [<img src="assets/icons/Godot/godot.png" width=20pt> **Godot**](https://godotengine.org/)
@@ -32,27 +34,38 @@ _𝒢𝒶𝓂𝑒𝒟𝑒𝓋 𝒾𝓈 𝓂𝓎 𝓅𝒶𝓈𝓈𝒾𝑜𝓃_
 
 </div>
 
+<!-- - Researching about:
+    - GitFlow: Trunk-based vs. Branch-based -->
 
 <!-- --- -->
 
 ### Tools
 ---
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" width=24pt> <!-- &emsp; --> <!-- <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/html5.svg" width=24pt> --> <!-- &emsp; --> <!-- <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/css3.svg" width=24pt> --> <!-- &emsp; --> <!-- <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/javascript.svg" width=24pt> --> &emsp; <img src="assets/icons/Git/git.svg" width=24pt> &emsp; <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/github.svg" width=24pt/> &emsp; <img src="https://raw.githubusercontent.com/garrett/Tux/main/tux.svg" width=24pt/> &emsp;  <img src="https://raw.githubusercontent.com/odb/official-bash-logo/master/assets/Logos/Icons/SVG/16x16.svg" width=24pt/> &emsp; <!-- <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/vim.svg" width=24pt/> --> <!-- &emsp; --> <img src="https://www.vim.org/images/vim_small.gif" width=24pt/> &emsp; <img src="assets/icons/NeoVim/neovim-icon.svg" width=20pt>
-<!-- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Toolbaricon_RegEx.svg/1920px-Toolbaricon_RegEx.svg.png" width=65pt> -->
+<div id="tools">
+<img src="https://www.vim.org/images/vim_small.gif" width=24pt/> &emsp;
+<img src="https://raw.githubusercontent.com/garrett/Tux/main/tux.svg" width=24pt/> &emsp;
+<img src="assets/icons/Arch/arch-logo.png" width=29pt> &emsp;
+<img src="assets/icons/NeoVim/neovim-icon.svg" width=20pt> &emsp;
+<img src="assets/icons/Git/git.svg" width=24pt> &emsp;
+<img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/github.svg" width=24pt/> &emsp;
+<img src="https://raw.githubusercontent.com/odb/official-bash-logo/master/assets/Logos/Icons/SVG/16x16.svg" width=24pt/> &emsp;
+<img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" width=24pt> &emsp;
+<!--<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Toolbaricon_RegEx.svg/1920px-Toolbaricon_RegEx.svg.png" width=65pt>-->
+</div>
 
 ---
 
-<!-- <img alt="GersonFeDutra Github Stats" src="https://github-readme-stats.vercel.app/api?username=GersonFeDutra&show_icons=true&hide_border=true&theme=synthwave&hide=stars,prs,issues,contribs"> <img alt="GersonFeDutra GitHub streaks" src="https://github-readme-streak-stats.herokuapp.com/?user=GersonFeDutra&theme=synthwave&hide_border=true&show_icons=true"> -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GersonFeDutra&layout=compact&theme=synthwave&hide_border=true&langs_count=6&hide=jupyter%20notebook" align="right" alt="Top Languages" >
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GersonFeDutra&layout=compact&theme=transparent&hide_border=true&title_color=9966aa&text_color=9966aa&langs_count=6&hide=html" align="right" alt="Top Languages" >
-
-```C
-#include <stdio.h>
-#include <stdlib.h>
+```Cpp
+#include <iostream>
 int main(void)
 {
-    printf("\033[32m" "Hello World!" "\033[m\n");
-    return EXIT_SUCCESS;
+#if defined(__unix__) || defined(__linux__)
+    std::cout << "\033[32m" "Hello World!" "\033[m\n";
+#else
+    std::cout << "Hello World!" << std::endl;
+#endif
 }
 ```
