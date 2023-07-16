@@ -1,16 +1,14 @@
 # Hello World!
 
-
 <div imgs align="right">
 
 _𝒢𝒶𝓂𝑒𝒟𝑒𝓋 𝒾𝓈 𝓂𝓎 𝓅𝒶𝓈𝓈𝒾𝑜𝓃_
-[<img src="assets/icons/FontAwesome/social_media/twitter.png" width="46pt" />](https://twitter.com/GersonFeDutra)
+<!-- [<img src="assets/icons/FontAwesome/social_media/twitter.png" width="46pt" />](https://twitter.com/GersonFeDutra) -->
 [<img src="assets/icons/FontAwesome/social_media/itch-io.png" width="46pt" />](https://gersonfedutra.itch.io/)
 [<img src="assets/icons/FontAwesome/social_media/linkedin.png" width="46pt" />](https://linkedin.com/in/gersonfedutra)
 [<img src="assets/icons/FontAwesome/social_media/instagram.png" width="46pt" />](https://instagram.com/gersonfedutra/)
 
 </div>
-
 
 <div topics>
 
@@ -43,15 +41,17 @@ _𝒢𝒶𝓂𝑒𝒟𝑒𝓋 𝒾𝓈 𝓂𝓎 𝓅𝒶𝓈𝓈𝒾𝑜𝓃_
 ---
 
 <div id="tools">
-<img src="https://www.vim.org/images/vim_small.gif" width=24pt/> &emsp;
-<img src="https://raw.githubusercontent.com/garrett/Tux/main/tux.svg" width=24pt/> &emsp;
-<img src="assets/icons/Arch/arch-logo.png" width=29pt> &emsp;
-<img src="assets/icons/NeoVim/neovim-icon.svg" width=20pt> &emsp;
-<img src="assets/icons/Git/git.svg" width=24pt> &emsp;
-<img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/github.svg" width=24pt/> &emsp;
-<img src="https://raw.githubusercontent.com/odb/official-bash-logo/master/assets/Logos/Icons/SVG/16x16.svg" width=24pt/> &emsp;
-<img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" width=24pt> &emsp;
+
+[<img src="https://www.vim.org/images/vim_small.gif" width=24pt/>](https://www.vim.org/) &emsp;
+[<img src="https://raw.githubusercontent.com/garrett/Tux/main/tux.svg" width=24pt/>](https://www.linux.org/) &emsp;
+[<img src="assets/icons/Arch/arch-logo.png" width=29pt>](https://archlinux.org/) &emsp;
+[<img src="assets/icons/NeoVim/neovim-icon.svg" width=20pt>](https://neovim.io/) &emsp;
+[<img src="assets/icons/Git/git.svg" width=24pt>](https://git-scm.com/) &emsp;
+[<img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/github.svg" width=24pt/>](https://docs.github.com/) &emsp;
+[<img src="https://raw.githubusercontent.com/odb/official-bash-logo/master/assets/Logos/Icons/SVG/16x16.svg" width=24pt/>](https://www.gnu.org/software/bash/) &emsp;
+[<img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" width=24pt>](https://code.visualstudio.com/) &emsp;
 <!--<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Toolbaricon_RegEx.svg/1920px-Toolbaricon_RegEx.svg.png" width=65pt>-->
+
 </div>
 
 ---
