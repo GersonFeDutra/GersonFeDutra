@@ -17,13 +17,18 @@ _𝒢𝒶𝓂𝑒𝒟𝑒𝓋 𝒾𝓈 𝓂𝓎 𝓅𝒶𝓈𝓈𝒾𝑜𝓃_
 
 - Favorite languages: [<img src="assets/icons/FontAwesome/languages/python.png" width=20pt /> **Python**](https://www.python.org/) & **C**
 - Favorite topics: Software Engineering
-- Starting into scientific research
-    - Loading...
+- Researching about:
+    - GitFlow: Trunk-based vs. Branch-based
 - Currently learning:
-    - Algorithms Design
     - Linear Algebra
+    - Algorithms Design
     - **C++** & Game Development
+    <!-- - Calculus -->
+    <!-- - Blender -->
+    <!-- - Typescript & Flutter -->
     <!-- - Calculus & Statistics -->
+    <!-- - Calculus & Physics -->
+    <!-- - Computer Graphics: Open GL -->
 - Interests:
     - Computer Graphics & Shaders
     - Game/ Graphics/ Software Design
@@ -33,10 +38,6 @@ _𝒢𝒶𝓂𝑒𝒟𝑒𝓋 𝒾𝓈 𝓂𝓎 𝓅𝒶𝓈𝓈𝒾𝑜𝓃_
 
 </div>
 
-<!-- - Researching about:
-    - GitFlow: Trunk-based vs. Branch-based -->
-
-<!-- --- -->
 
 ### Tools
 ---
@@ -57,7 +58,7 @@ _𝒢𝒶𝓂𝑒𝒟𝑒𝓋 𝒾𝓈 𝓂𝓎 𝓅𝒶𝓈𝓈𝒾𝑜𝓃_
 
 ---
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GersonFeDutra&layout=compact&theme=synthwave&hide_border=true&langs_count=6&hide=jupyter%20notebook" align="right" alt="Top Languages" >
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GersonFeDutra&layout=compact&theme=synthwave&hide_border=true&langs_count=8&hide=jupyter%20notebook,html,cmake" align="right" alt="Top Languages" >
 
 ```Cpp
 #include <iostream>
