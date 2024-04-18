@@ -2,7 +2,7 @@
 
 <div imgs align="right">
 
-_𝒢𝒶𝓂𝑒𝒟𝑒𝓋 𝒾𝓈 𝓂𝓎 𝓅𝒶𝓈𝓈𝒾𝑜𝓃_
+𝓖𝓪𝓶𝓮 𝓓𝓮𝓿 𝓲𝓼 𝓶𝔂 𝓹𝓪𝓼𝓼𝓲𝓸𝓷
 [<img src="assets/icons/FontAwesome/social_media/itch-io.png" width="46pt" />](https://gersonfedutra.itch.io/)
 [<img src="assets/icons/FontAwesome/social_media/linkedin.png" width="46pt" />](https://linkedin.com/in/gersonfedutra)
 [<img src="assets/icons/FontAwesome/social_media/instagram.png" width="46pt" />](https://instagram.com/gersonfedutra/)
