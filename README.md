@@ -16,15 +16,13 @@
 <img src="assets/lvl1_link.gif" align="right" >
 
 - Favorite languages: [<img src="assets/icons/FontAwesome/languages/python.png" width=20pt /> **Python**](https://www.python.org/) & **C**
-- Favorite topics: Software Engineering
-- Researching about:
-    - GitFlow: Trunk-based vs. Branch-based
+- Favorite topics: Software Engineering & Game Development
 - Currently learning:
-    - Linear Algebra
-    - Algorithms Design
+    - Calculus & Linear Algebra
+    - Automatae & Formal Languages
     - **C++** & Game Development
-    <!-- - Calculus -->
-    <!-- - Blender -->
+    <!-- - Algorithms Design -->
+    <!-- - Blender & Unreal Engine -->
     <!-- - Typescript & Flutter -->
     <!-- - Calculus & Statistics -->
     <!-- - Calculus & Physics -->
