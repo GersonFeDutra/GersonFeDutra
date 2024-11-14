@@ -15,12 +15,12 @@
 
 <img src="assets/lvl1_link.gif" align="right" >
 
-- Favorite languages: [<img src="assets/icons/FontAwesome/languages/python.png" width=20pt /> **Python**](https://www.python.org/) & **C**
+- Favorite languages: **[C/C++](https://en.cppreference.com/w/cpp)**, [<img src="assets/icons/FontAwesome/languages/python.png" width=20pt /> **Python**](https://www.python.org/) & **[Go](https://go.dev/)**
 - Favorite topics: Software Engineering & Game Development
 - Currently learning:
     - Calculus & Linear Algebra
     - Automatae & Formal Languages
-    - **C++** & Game Development
+    - Unreal, **C++** & Game Development
     <!-- - Algorithms Design -->
     <!-- - Blender & Unreal Engine -->
     <!-- - Typescript & Flutter -->
@@ -50,6 +50,8 @@
 [<img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/github.svg" width=24pt/>](https://docs.github.com/) &emsp;
 [<img src="https://raw.githubusercontent.com/odb/official-bash-logo/master/assets/Logos/Icons/SVG/16x16.svg" width=24pt/>](https://www.gnu.org/software/bash/) &emsp;
 [<img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" width=24pt>](https://code.visualstudio.com/) &emsp;
+[<img src="./assets/icons/C/c-programming.svg" width=24pt>](https://www.amazon.com/dp/0131103628) &emsp;
+[<img src="./assets/icons/C/CPlusPlus.svg" width=24pt>](https://en.cppreference.com/w/cpp)
 <!--<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Toolbaricon_RegEx.svg/1920px-Toolbaricon_RegEx.svg.png" width=65pt>-->
 
 </div>
