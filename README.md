@@ -16,7 +16,7 @@
 <img src="assets/lvl1_link.gif" align="right" >
 
 - ⭐ Favorites:
-    - Languages: **[C/C++](https://en.cppreference.com/w/cpp)**, [<img src="assets/icons/FontAwesome/languages/python.png" width=20pt /> **Python**](https://www.python.org/) & **[Go](https://go.dev/)**
+    - Languages: **[C/C++](https://en.cppreference.com/w/cpp)**, [<img src="assets/icons/FontAwesome/languages/python.png" width=20pt /> **Python**](https://www.python.org/) & **[Go <img src="assets/icons/Go/Go-Logo_White.svg" width=20pt>](https://go.dev/)**
     - Topics: Software Engineering & Game Development
 - Currently learning:
     - Calculus & Linear Algebra
