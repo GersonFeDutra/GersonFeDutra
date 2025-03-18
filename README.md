@@ -16,24 +16,24 @@
 <img src="assets/lvl1_link.gif" align="right" >
 
 - ⭐ Favorites:
-    - Languages: **[C/C++](https://en.cppreference.com/w/cpp)**, [<img src="assets/icons/FontAwesome/languages/python.png" width=20pt /> **Python**](https://www.python.org/) & **[Go <img src="assets/icons/Go/Go-Logo_White.svg" width=20pt>](https://go.dev/)**
-    - Topics: Software Engineering & Game Development
-- Currently learning:
-    - Calculus & Linear Algebra
-    - Automatae & Formal Languages
-    - Unreal, **C++** & Game Development
-    <!-- - Algorithms Design -->
+    - Languages: **[C/C++](https://en.cppreference.com/w/cpp)**, **[Gdscript](https://docs.godotengine.org/en/latest/tutorials/scripting/gdscript/index.html)**, [**Python** <img src="assets/icons/FontAwesome/languages/python.png" width=20pt />](https://www.python.org/) & **[Go <img src="assets/icons/Go/Go-Logo_White.svg" width=20pt>](https://go.dev/)**
+    - Topics: `Software Engineering`, `Game Development`, `Godot 2D`, `Teaching`
+- 📖 Currently learning:
+    - `Calculus` & `Linear Algebra`
+    - `Algorithms Design: Construction & Analysis`
+    - `Unreal Engine` **`C++`** `3D Game Development`
+    <!-- - `Automatae` & `Formal Languages` -->
     <!-- - Blender & Unreal Engine -->
     <!-- - Typescript & Flutter -->
     <!-- - Calculus & Statistics -->
     <!-- - Calculus & Physics -->
     <!-- - Computer Graphics: Open GL -->
-- Interests:
-    - Computer Graphics & Shaders
-    - Game/ Graphics/ Software Design
-    - Procedural Generation & AI
-- I 💙 [<img src="assets/icons/Godot/godot.png" width=20pt> **Godot**](https://godotengine.org/)
-    - Enthusiast since 2016~
+- 🧐 Interests:
+    - `Computer Graphics` & `Shaders`
+    - `Game Design`, `Graphics Design`, `Software Design`
+    - `Procedural Generation` & `Game AI`
+- 💙 [<img src="assets/icons/Godot/godot.png" width=20pt> **Godot**](https://godotengine.org/)
+    - Enthusiast since 2016
 
 </div>
 
