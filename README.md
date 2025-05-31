@@ -20,19 +20,18 @@
     - Languages: **[C/C++](https://en.cppreference.com/w/cpp)**, **[Gdscript](https://docs.godotengine.org/en/latest/tutorials/scripting/gdscript/index.html)**, [**Python** <img src="assets/icons/techs/languages/python.png" width=20pt />](https://www.python.org/) & **[Go <img src="assets/icons/techs/languages/Go/Go-Logo_White.svg" width=20pt>](https://go.dev/)**
     - Topics: `Software Engineering`, `Game Development`, `Godot 2D`, `Teaching`
 - 📖 Currently learning:
-    - `Calculus` & `Linear Algebra`
-    - `Algorithms Design: Construction & Analysis`
+    - `Computer Graphics`: `Open GL`
     - `Unreal Engine` **`C++`** `3D Game Development`
     <!-- - `Automatae` & `Formal Languages` -->
     <!-- - Blender & Unreal Engine -->
-    <!-- - Typescript & Flutter -->
     <!-- - Calculus & Statistics -->
     <!-- - Calculus & Physics -->
-    <!-- - Computer Graphics: Open GL -->
+    <!-- - Typescript & Flutter -->
 - 🧐 Interests:
     - `Computer Graphics` & `Shaders`
     - `Game Design`, `Graphics Design`, `Software Design`
     - `Procedural Generation` & `Game AI`
+    <!-- - `Algorithms Design` -->
 - 💙 [<img src="assets/icons/techs/Godot/godot.png" width=20pt> **Godot**](https://godotengine.org/)
     - Enthusiast since 2016
 
