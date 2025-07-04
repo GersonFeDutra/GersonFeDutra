@@ -6,7 +6,7 @@
 [<img src="assets/icons/social_media/font-awesome/itch-io.png" width="46pt" />](https://gersonfedutra.itch.io/)
 [<img src="assets/icons/social_media/font-awesome/linkedin.png" width="46pt" />](https://linkedin.com/in/gersonfedutra)
 [<img src="assets/icons/social_media/font-awesome/instagram.png" width="46pt" />](https://instagram.com/gersonfedutra/)
-[<img src="assets/icons/social_media/threads.png" height="36pt" />](https://www.threads.net/@gersonfedutra)
+[<img src="assets/icons/social_media/threads.png" width="36pt" />](https://www.threads.net/@gersonfedutra)
 
 </div>
 
