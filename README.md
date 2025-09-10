@@ -75,8 +75,18 @@
         std::print(string, args...); // re-direct to STL implementation.
     }
 #elif defined(_WIN32) || defined(_WIN64)
-    // here: <https://gist.github.com/GersonFeDutra/e2828efcb5d2e7c871c4ac1e239b60fe#file-windows_ansi_fallback-hpp>
+    static bool ansi_enabled;
+    // <https://gist.github.com/GersonFeDutra/e2828efcb5d2e7c871c4ac1e239b60fe#file-windows_ansi_fallback-hpp>
     #include <windows_ansi_fallback.hpp>
+    template <typename... T>
+    void print(const char* string, T... args) {
+        if (ansi_enabled) {
+            std::print(string, args...);
+			return;
+        }
+        // else // Windows Console Version too old for this example, let's brute for this anw... 🙊
+        _filtered_print(string, args...);
+    }
 #endif
 
 int main()
