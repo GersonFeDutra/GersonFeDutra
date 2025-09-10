@@ -84,7 +84,8 @@
             std::print(string, args...);
 			return;
         }
-        // else // Windows Console Version too old for this example, let's brute for this anw... 🙊
+        // else // Windows Console Version too old for this example,
+		// let's brute for this anw... 🙊
         _filtered_print(string, args...);
     }
 #endif
