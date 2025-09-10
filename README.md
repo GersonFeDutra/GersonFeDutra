@@ -64,13 +64,27 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GersonFeDutra&layout=compact&theme=synthwave&hide_border=true&langs_count=8&hide=jupyter%20notebook,html,cmake" align="right" alt="Top Languages" >
 
 ```Cpp
-#include <iostream>
-int main(void)
-{
+#include <print>
 #if defined(__unix__) || defined(__linux__)
-    std::cout << "\033[32m" "Hello World!" "\033[m\n";
-#else
-    std::cout << "Hello World!" << std::endl;
+    // Ansi scape by default!
+#elif defined(_WIN32) || defined(_WIN64)
+    bool enable_ansi_escape_codes() {
+        HANDLE hOut = GetStdHandle(STD_OUTPUT_HANDLE);
+        if (hOut == INVALID_HANDLE_VALUE) return false;
+        DWORD dwMode = 0;
+        if (!GetConsoleMode(hOut, &dwMode)) return false;
+        dwMode |= ENABLE_VIRTUAL_TERMINAL_PROCESSING;
+        return SetConsoleMode(hOut, dwMode);
+    }
+    __attribute__((constructor))
+    void init(void) {
+        // windows console version too old for this example!
+        assert(enable_ansi_escape_codes());
+    }
 #endif
+
+int main()
+{
+    std::print("\033[32m" "Hello World!" "\033[m\n");
 }
 ```
