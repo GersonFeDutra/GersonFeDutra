@@ -37,6 +37,9 @@
 
 </div>
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GersonFeDutra&layout=compact&theme=synthwave&hide_border=true&langs_count=8&hide=jupyter%20notebook,html,cmake" align="right" alt="Top Languages" >
+
+<br>
 
 ### Tools
 ---
@@ -60,8 +63,6 @@
 </div>
 
 ---
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GersonFeDutra&layout=compact&theme=synthwave&hide_border=true&langs_count=8&hide=jupyter%20notebook,html,cmake" align="right" alt="Top Languages" >
 
 ```Cpp
 #include <print>
