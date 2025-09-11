@@ -39,8 +39,6 @@
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GersonFeDutra&layout=compact&theme=synthwave&hide_border=true&langs_count=8&hide=jupyter%20notebook,html,cmake" align="right" alt="Top Languages" >
 
-<br>
-
 ### Tools
 ---
 
@@ -51,9 +49,10 @@
 [<img src="https://raw.githubusercontent.com/garrett/Tux/main/tux.svg" width=24pt/>](https://www.linux.org/) &emsp;
 [<img src="assets/icons/techs/Arch/arch-logo.png" width=29pt>](https://archlinux.org/) &emsp;
 [<img src="https://raw.githubusercontent.com/odb/official-bash-logo/master/assets/Logos/Icons/SVG/16x16.svg" width=24pt/>](https://www.gnu.org/software/bash/) &emsp;
-[<img src="https://www.vim.org/images/vim_small.gif" width=20pt/>](https://www.vim.org/) &emsp;
-<!--[<img src="assets/icons/techs/NeoVim/neovim-icon.svg" width=20pt>](https://neovim.io/) &emsp;-->
 [<img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" width=24pt>](https://code.visualstudio.com/) &emsp;
+<!-- -->
+[<img src="https://www.vim.org/images/vim_small.gif" width=20pt/>](https://www.vim.org/) &emsp;
+[<img src="assets/icons/techs/NeoVim/neovim-icon.svg" width=20pt>](https://neovim.io/) &emsp;
 [<img src="./assets/icons/techs/languages/C/c-programming.svg" width=24pt>](https://www.amazon.com/dp/0131103628) &emsp;
 [<img src="./assets/icons/techs/languages/C/CPlusPlus.svg" width=24pt>](https://en.cppreference.com/w/cpp) &emsp;
 [<img src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/files/python-logo-only.svg" width=24pt>](https://www.python.org/) &emsp;
