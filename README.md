@@ -18,26 +18,31 @@
 
 - ⭐ Favorites:
     - Languages: **[C/C++](https://en.cppreference.com/w/cpp)**, **[Gdscript](https://docs.godotengine.org/en/latest/tutorials/scripting/gdscript/index.html)**, [**Python** <img src="assets/icons/techs/languages/python.png" width=20pt />](https://www.python.org/) & **[Go <img src="assets/icons/techs/languages/Go/Go-Logo_White.svg" width=20pt>](https://go.dev/)**
-    - Topics: `Software Engineering`, `Game Development`, `Godot 2D`, `Teaching`
+    - Topics: `Software Engineering`, `Game Development`, `Godot 2D`, `Teaching`, `Computer Graphics` [`Open GL`], `Game Design`
 - 📖 Currently learning:
-    - `Computer Graphics`: `Open GL`
-    - `Unreal Engine` **`C++`** `3D Game Development`
-    <!-- - `Automatae` & `Formal Languages` -->
-    <!-- - Blender & Unreal Engine -->
-    <!-- - Calculus & Statistics -->
+    - `Unreal Engine` [**`C++`**]
+    - `3D Game Development` & `Real Time Rendering`
+    - `Compilers`
+    - `Computer Theory`
+    - `Interaction Human-Computer`
+    - `Statistics`
+    - `Typescript`
+	<!-- - Blender & Unreal Engine -->
     <!-- - Calculus & Physics -->
-    <!-- - Typescript & Flutter -->
+	<!-- - Mecanics (Physics) -->
+	<!-- - Cinematics (Physics) -->
+	<!-- - `Algorithms Design` -->
+    <!-- - Flutter -->
 - 🧐 Interests:
-    - `Computer Graphics` & `Shaders`
-    - `Game Design`, `Graphics Design`, `Software Design`
+    - `Shaders` [`HLSL`]
+    - `Graphics Design`, `Software Design`
     - `Procedural Generation` & `Game AI`
-    <!-- - `Algorithms Design` -->
 - 💙 [<img src="assets/icons/techs/Godot/godot.png" width=20pt> **Godot**](https://godotengine.org/)
     - Enthusiast since 2016
 
 </div>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GersonFeDutra&layout=compact&theme=synthwave&hide_border=true&langs_count=8&hide=jupyter%20notebook,html,cmake" align="right" alt="Top Languages" >
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GersonFeDutra&layout=compact&theme=synthwave&hide_border=true&langs_count=10&hide=jupyter%20notebook,html,cmake" align="right" alt="Top Languages" >
 
 ### Tools
 ---
@@ -46,17 +51,17 @@
 
 [<img src="assets/icons/techs/Git/git.svg" width=24pt>](https://git-scm.com/) &emsp;
 [<img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/github.svg" width=24pt/>](https://docs.github.com/) &emsp;
+[<img src="https://raw.githubusercontent.com/odb/official-bash-logo/master/assets/Logos/Icons/SVG/16x16.svg" width=24pt/>](https://www.gnu.org/software/bash/) &emsp;
 [<img src="https://raw.githubusercontent.com/garrett/Tux/main/tux.svg" width=24pt/>](https://www.linux.org/) &emsp;
 [<img src="assets/icons/techs/Arch/arch-logo.png" width=29pt>](https://archlinux.org/) &emsp;
-[<img src="https://raw.githubusercontent.com/odb/official-bash-logo/master/assets/Logos/Icons/SVG/16x16.svg" width=24pt/>](https://www.gnu.org/software/bash/) &emsp;
 [<img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" width=24pt>](https://code.visualstudio.com/) &emsp;
 <!-- -->
 [<img src="https://www.vim.org/images/vim_small.gif" width=20pt/>](https://www.vim.org/) &emsp;
 [<img src="assets/icons/techs/NeoVim/neovim-icon.svg" width=20pt>](https://neovim.io/) &emsp;
-[<img src="./assets/icons/techs/languages/C/c-programming.svg" width=24pt>](https://www.amazon.com/dp/0131103628) &emsp;
-[<img src="./assets/icons/techs/languages/C/CPlusPlus.svg" width=24pt>](https://en.cppreference.com/w/cpp) &emsp;
+[<img src="https://upload.wikimedia.org/wikipedia/commons/e/e3/Microsoft_Office_Excel_%282019%E2%80%932025%29.svg" width=24pt>](https://www.microsoft.com/pt-br/microsoft-365/excel) &emsp;
 [<img src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/files/python-logo-only.svg" width=24pt>](https://www.python.org/) &emsp;
-[<img src="https://upload.wikimedia.org/wikipedia/commons/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg" width=24pt>](https://www.microsoft.com/pt-br/microsoft-365/excel) 
+[<img src="./assets/icons/techs/languages/C/c-programming.svg" width=24pt>](https://www.amazon.com/dp/0131103628) &emsp;
+[<img src="./assets/icons/techs/languages/C/CPlusPlus.svg" width=24pt>](https://en.cppreference.com/w/cpp)
 <!--<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Toolbaricon_RegEx.svg/1920px-Toolbaricon_RegEx.svg.png" width=65pt>-->
 
 </div>
@@ -75,12 +80,10 @@
         std::print(string, args...); // re-direct to STL implementation.
     }
 #elif defined(_WIN32) || defined(_WIN64)
-    static bool ansi_enabled;
-    // <https://gist.github.com/GersonFeDutra/e2828efcb5d2e7c871c4ac1e239b60fe#file-windows_ansi_fallback-hpp>
     #include <windows_ansi_fallback.hpp>
     template <typename... T>
     void print(const char* string, T... args) {
-        if (ansi_enabled) {
+        if constexpr (ansi_enabled) {
             std::print(string, args...);
 			return;
         }
