@@ -69,32 +69,12 @@
 ---
 
 ```Cpp
-#include <print>
-
-#if defined(__unix__) || defined(__linux__)
-    // Ansi escape by default!
-    
-    /* Same as std::print */
-    template <typename... T>
-    inline void print(const char* string, T... args) {
-        std::print(string, args...); // re-direct to STL implementation.
-    }
-#elif defined(_WIN32) || defined(_WIN64)
-    #include <windows_ansi_fallback.hpp>
-    template <typename... T>
-    void print(const char* string, T... args) {
-        if constexpr (ansi_enabled) {
-            std::print(string, args...);
-			return;
-        }
-        // else // Windows Console Version too old for this example,
-		// let's brute for this anw... 🙊
-        _filtered_print(string, args...);
-    }
-#endif
+#include <print> // C++ 23
 
 int main()
 {
+	// ANSI escape sequences are universal now!
     print("\033[32m" "Hello World!" "\033[m\n");
+	// Windows Console Version may be too old for this example, though.
 }
 ```
