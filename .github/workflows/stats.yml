@@ -13,6 +13,9 @@ jobs:
       contents: write
 
     steps:
+      - name: Create profile directory
+        run: mkdir -p profile
+        
       - uses: actions/checkout@v6
 
       - name: Generate stats card
